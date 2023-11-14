@@ -1,0 +1,27 @@
+.card{
+    border: 3px solid ;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    min-width: 300px;
+    max-width: 300px;
+}
+
+.titulo{
+    font-family:  monospace;
+    padding: 10px 0px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.5px #000;
+}
+
+.conteudo{
+    background-color: #fff;
+    color: #000;
+    flex: 1;
+}

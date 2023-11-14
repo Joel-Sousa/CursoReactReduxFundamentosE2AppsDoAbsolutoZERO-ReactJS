@@ -1,0 +1,10 @@
+:root{
+  --bg-color: #ccc;
+}
+
+.App {
+  display: flex;
+  height: 100vh;
+  /* background-color: var(--bg-color); */
+}
+

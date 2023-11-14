@@ -1,0 +1,13 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+body{
+    background-color: #000;
+}
+
+h1{
+    color: #fff;
+}

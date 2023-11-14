@@ -1,0 +1,17 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  text-align:center;
+}
+
+h1{
+  font-weight: 200;
+}
+
+.linha{
+  display: flex;
+}
+
+.Titulo{
+    text-shadow:#fff 1px -1px, #fff -1px 1px, #fff 1px 1px, #fff -1px -1px;
+}
